@@ -18,15 +18,15 @@ It does the following tasks:<br>
 
 ## Preview
 The program starts by displaying all the categories-<br>
-![App Screenshot](file:///C:/Users/asus/Documents/web%20develop/pythonpro1.png)
+![App Screenshot](https://github.com/zvanshi/Apparel360/blob/57996dc954a304e8ba057680b3a431a0ae9e256e/Outputs/pythonpro1.png)
 <br>
 <br>
 In each category we get four options to add,modify,display and delete the entries.<br>
 
-![App Screenshot](file:///D:/Programs/python%20project/Outputs/pythonpro2.png)
+![App Screenshot](https://github.com/zvanshi/Apparel360/blob/57996dc954a304e8ba057680b3a431a0ae9e256e/Outputs/pythonpro2.png)
 
 
 ## Appendix
 
 For further information , you can refer the following links-<br>
-* https://github.com/zvanshi/Store-management-system/blob/ee77117b1b0625ddde13b5047ae5fcd05d087ea3/Demo-store_management.pdf
+* https://github.com/zvanshi/Apparel360/blob/57996dc954a304e8ba057680b3a431a0ae9e256e/Demo-store-management.pdf
