@@ -8,7 +8,7 @@ It has primarly used mysql.connector library to connect MySQL databases with Pyt
 
 
 ## What it does?
-
+It performs the CRUD operations that is <br>
 It does the following tasks:<br>
 (1) Add data to the database<br>
 (2) Update existing data<br>
